@@ -21,7 +21,7 @@ If useful, buy me a coffee?
 
 ## Installation
 
-    $ git clone https://github.com/LeeChunHao2000/Cypto-TradingView-Webhook.git
+    $ git clone https://github.com/brendancme/Cypto-TradingView-Webhook.git
 
  - This trading frame depends on several package, so you need to install them first!
 
